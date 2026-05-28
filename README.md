@@ -1,5 +1,4 @@
-# Trapyador 🧹
-
+<h1 align="center">Trapyador 🧹</h1>
 Trapyador es un pequeño programa para desinstalar aplicaciones de una manera cómoda desde la consola.
 Unicamente compatible con Windows.
 
@@ -7,12 +6,13 @@ Unicamente compatible con Windows.
 
 El script escanea el registro de Windows para detectar programas instalados y muestra una lista interactiva para seleccionar cuáles deseas desinstalar.
 
-Podes navegar por la lista usando:
+### Controles
 
-- Flecha ARRIBA
-- Flecha ABAJO
-- ESPACIO para seleccionar programas
-- ENTER para confirmar
+| Tecla | Acción |
+|------|--------|
+| `ARRIBA / ABAJO` | Navegar por la lista |
+| `ESPACIO` | Seleccionar programa |
+| `ENTER` | Confirmar selección |
 
 Una vez confirmada la selección, el script ejecuta los comandos necesarios para desinstalar cada programa.
 
@@ -57,12 +57,6 @@ Ejecuta el script:
 python main.py
 ```
 
-### Controles
 
-| Tecla | Acción |
-|------|--------|
-| ARRIBA / ABAJO | Navegar por la lista |
-| ESPACIO | Seleccionar programa |
-| ENTER | Confirmar selección |
 
 
