@@ -2,6 +2,8 @@
   <img src="https://i.imgur.com/ZDzsrjm.png" alt="trapyador" />
 </p>
 
+---
+
 Trapyador es un pequeño programa para desinstalar aplicaciones de una manera cómoda desde la consola.
 Unicamente compatible con Windows.
 
