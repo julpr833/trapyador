@@ -1,4 +1,7 @@
-<h1 align="center">Trapyador 🧹</h1>
+<p align="center">
+  <img src="https://i.imgur.com/ZDzsrjm.png" alt="trapyador" />
+</p>
+
 Trapyador es un pequeño programa para desinstalar aplicaciones de una manera cómoda desde la consola.
 Unicamente compatible con Windows.
 
@@ -25,8 +28,6 @@ Una vez confirmada la selección, el script ejecuta los comandos necesarios para
 - Dependencias (para ejecutarlo desde Python):
   - `questionary`
 
----
-
 ## Instalación
 
 1. **Mediante ejecutable**: Baja el ejecutable desde la pestaña [Releases](https://github.com/julpr833/trapyador/releases/tag/release)
@@ -45,9 +46,6 @@ Instala las dependencias:
 ```bash
 pip install questionary
 ```
-
-
----
 
 ## Uso
 
